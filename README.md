@@ -1,0 +1,1 @@
+simulationCode.m utilizes mcMatlab packages to simulate the Cherenkov emission from tissue for a set wavelength. The source distribution is defined from a treatment planning system as the dose distrubution of the beam. An example 10x10cm photon field is available. 
